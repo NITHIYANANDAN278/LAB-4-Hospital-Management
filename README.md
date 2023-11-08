@@ -11,7 +11,7 @@ This application provides a way to record this information and to access these i
 ### CLASS DIAGRAM:
 ![image](https://github.com/NITHIYANANDAN278/LAB-4-Hospital-Management/assets/121784636/853c2988-7def-4321-a409-ba059d2f776a)
 ### ACTIVITY DIAGRAM:
-![image](https://github.com/NITHIYANANDAN278/LAB-4-Hospital-Management/assets/121784636/b84faa4c-d5cb-4145-9d46-531e90e3791b)
+![image](https://github.com/NITHIYANANDAN278/LAB-4-Hospital-Management/assets/121784636/99026354-1078-43a3-8cd4-eeb76141fc56)
 ### COMMUNICATION DIAGRAM:
 ![276499578-161a4d5c-a027-4553-93c7-0b973e44fde9](https://github.com/NITHIYANANDAN278/LAB-4-Hospital-Management/assets/121784636/1678cda5-d634-4f85-a8b6-a9180fe751c8)
 ### SEQUENCE DIAGRAM:
